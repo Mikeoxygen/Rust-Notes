@@ -5,3 +5,5 @@ fn main() {
 }
 ``
 The *main*b function is special, it is the first code that runs in every Rust executable program. It declares a function main ( no parameters and doesnt return anything).
+After writing your code, you need to compile it first before running it. to compile rust. Run "cargo build" in your command line editor ( i am using CMD on windows), after building it you can then run it with
+".\target\debug\hello-rust.exe " then you have your output in your editor. OR you can run and build it just one command which is " cargo  run ".
