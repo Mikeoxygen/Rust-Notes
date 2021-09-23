@@ -1,0 +1,7 @@
+#### ANATOMY OF A RUST PROGRAM
+
+``rust
+fn main() {
+}
+``
+The *main*b function is special, it is the first code that runs in every Rust executable program. It declares a function main ( no parameters and doesnt return anything).
